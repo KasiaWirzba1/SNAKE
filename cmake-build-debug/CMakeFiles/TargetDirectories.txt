@@ -1,0 +1,3 @@
+C:/Users/kawir/CLionProjects/SNAKE/cmake-build-debug/CMakeFiles/SNAKE.dir
+C:/Users/kawir/CLionProjects/SNAKE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kawir/CLionProjects/SNAKE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
